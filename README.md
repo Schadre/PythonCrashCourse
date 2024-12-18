@@ -2,7 +2,7 @@
 
 ## Software Engineering Prework
 
-- **📁Prework: Assignment 1
+- **Prework: Assignment 1
   - `PythonFundamentals.py`
-- **📁Prework: Assignment 2
+- **Prework: Assignment 2
   - `WorkingWithData.py`
