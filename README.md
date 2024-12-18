@@ -6,3 +6,6 @@
   - `PythonFundamentals.py`
 - 📁Prework: Assignment 2
   - `WorkingWithData.py`
+- 📁Prework: Assignment 4
+  - `FunctionsAndDictionaries.py`
+
